@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Look at me. I edited a page and deployed it.</a>
+          Look at me. I edited a page and deployed it.
         </h1>
 
         <p className={styles.description}>
